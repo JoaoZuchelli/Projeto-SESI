@@ -62,7 +62,6 @@ body {
 }
 
 
-
 .link-externo {
     display: inline-block;
     background-color: #1a1a1e;
@@ -199,7 +198,7 @@ section {
     padding: 2.5rem;
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-    transition: transform 0.3s ease, border-color 0.3s ease;
+
 }
 
 section:hover {
